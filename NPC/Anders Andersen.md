@@ -1,1 +1,2 @@
-Right hand of [[Erwen]].
+Status: **MISSING**
+Right hand of [[Erwin Nørgaard]].

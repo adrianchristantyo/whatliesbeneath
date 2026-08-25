@@ -1,1 +1,2 @@
-Random NPC from [[Mossmeer]].
+Status: **ALIVE**
+Random NPC from [[Mossmere]].

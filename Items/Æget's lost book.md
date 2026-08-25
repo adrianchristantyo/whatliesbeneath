@@ -1,0 +1,1 @@
+The book owned by [[Æget]] that was stolen by [[Booby]] and [[Rok]] 7 years ago before the campaign took place (roughly around the time of [[The Fall of Bryndemere]])

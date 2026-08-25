@@ -1,0 +1,1 @@
+The tavern in [[Whitmore]] owned by [[Loznoth Bronzemane]] and [[Ida Bronzemane]]

@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8da479bfc8076d4e",
+            "id": "db4a0f40cb030b2c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "Places/Bree.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bree"
             }
           }
         ]
@@ -185,37 +189,41 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8da479bfc8076d4e",
+  "active": "db4a0f40cb030b2c",
   "lastOpenFiles": [
-    "Followers of bjørn/Æget.md",
-    "NPC/Anders Andersen.md",
-    "NPC/Erwen.md",
-    "Places/Riften.md",
-    "NPC/Peter Bronzemane.md",
     "NPC/Proxor.md",
-    "Test.md",
-    "Places/Mossmeer.md",
-    "Places/Withmore.md",
-    "Places/Bree.md",
-    "NPC/Amanda.md",
-    "NPC/Sir Davies.md",
-    "Followers of bjørn/Sister M.md",
-    "Followers of bjørn/Followers of bjørn.md",
-    "NPC/Jacob.md",
-    "NPC/Andy.md",
-    "Items/Bag of holding.md",
-    "Items",
+    "NPC/Peter Bronzemane.md",
     "NPC/Lyra.md",
-    "Followers of bjørn/Una.md",
-    "Followers of bjørn/Boobie.md",
     "NPC/Loznoth Bronzemane.md",
-    "NPC/Ida.md",
+    "NPC/Jacob.md",
+    "NPC/Ida Bronzemane.md",
+    "NPC/Erwin Nørgaard.md",
+    "NPC/Andy.md",
+    "NPC/Anders Andersen.md",
+    "NPC/Amanda.md",
     "NPC/Aiden.md",
-    "Followers of bjørn/Bon.md",
-    "Followers of bjørn/Rok.md",
-    "NPC",
+    "NPC/'Sir' Davis.md",
+    "Items/Bag of Holding.md",
+    "Items/Æget's lost book.md",
+    "Followers of Bjørn/Una.md",
+    "Followers of Bjørn/Sister M.md",
+    "Followers of Bjørn/Rok.md",
+    "Places/Monastery of Torben.md",
+    "Places/Zool.jpg",
+    "Followers of Bjørn/Followers of Bjørn.md",
+    "Followers of Bjørn/Booby.md",
+    "Followers of Bjørn/Bonn.md",
+    "Followers of Bjørn/Æget.md",
+    "Events/The Fall of Bryndemere.md",
+    "Events",
+    "Test.md",
+    "CotT Cultist.png",
+    "Children of the Truth.md",
+    "Places/Whitmore.md",
+    "Zool.jpg",
     "Places",
-    "Followers of bjørn",
-    "README.md"
+    "NPC",
+    "Items",
+    "Followers of Bjørn"
   ]
 }

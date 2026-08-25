@@ -1,1 +1,2 @@
-[[Loznoth Bronzemane]]'s brother, he lives in [[Withmore]], where he met the [[Followers of bjørn]] 
+Status: **ALIVE**
+[[Loznoth Bronzemane]]'s brother, he lives in [[Whitmore]], where he met the [[Followers of Bjørn]] 

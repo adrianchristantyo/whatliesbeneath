@@ -1,0 +1,1 @@
+Chief of [[Mossmeer]]. [[Boobie]] and [[Æget]] talked with him when they got to the city to find out what happened.

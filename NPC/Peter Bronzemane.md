@@ -1,0 +1,1 @@
+[[Loznoth Bronzemane]]'s brother, he lives in [[Withmore]], where he met the [[Followers of bjørn]] 

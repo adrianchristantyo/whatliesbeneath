@@ -1,0 +1,1 @@
+The village of [[Bree]] where the family of [[Loznoth Bronzemane]] lives. The [[Followers of bjørn]] were sent there to deal with some problems related to wolves.

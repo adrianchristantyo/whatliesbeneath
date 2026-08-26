@@ -1,5 +1,5 @@
 Full name: Agætigarðr Kharluk Tak
-
+Status: **ALIVE**
 (Insert description of Æget as a character)
 
 He has been traveling with [[Bonn]] for some years already, trying to find the one who stole his book from him.

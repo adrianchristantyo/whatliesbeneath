@@ -22,7 +22,7 @@
       }
     },
     {
-      "query": "path:\"Followers of bjørn\"  ",
+      "query": "path:\"Party Members\"  ",
       "color": {
         "a": 1,
         "rgb": 5431378
@@ -33,6 +33,20 @@
       "color": {
         "a": 1,
         "rgb": 2766293
+      }
+    },
+    {
+      "query": "path:Events  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:Organizations  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
       }
     }
   ],
@@ -46,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.8018330540119144,
+  "scale": 0.7725778568100113,
   "close": true
 }

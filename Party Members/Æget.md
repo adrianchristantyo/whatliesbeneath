@@ -1,3 +1,4 @@
+![[Agæt.png]]
 Full name: Agætigarðr Kharluk Tak
 Status: **ALIVE**
 (Insert description of Æget as a character)

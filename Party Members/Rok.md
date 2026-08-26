@@ -1,3 +1,4 @@
+![[Rok.png]]
 Full name: Rokohnach Vugarith Bokuxach
 Status: **ALIVE**
 As a kid, she grew up poor and lived life by stealing from others. It didn't help that she also suffered from schizophrenia. She was bullied from a young age.

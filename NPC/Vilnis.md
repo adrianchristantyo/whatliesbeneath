@@ -1,3 +1,3 @@
 Status: **???**
 
-Someone that apparently gave you powers to level up
+Someone that apparently gave the [[Followers of Bjørn]] powers to level up.

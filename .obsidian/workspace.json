@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "db4a0f40cb030b2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Party Members/Sister M.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sister M"
-            }
-          },
-          {
             "id": "4f33238283cda4a0",
             "type": "leaf",
             "state": {
@@ -31,8 +17,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,13 +187,18 @@
   },
   "active": "4f33238283cda4a0",
   "lastOpenFiles": [
-    "NPC/'Goblin Leader'.md",
+    "NPC/Vilnis.md",
+    "Organizations/Children of the Truth.md",
+    "Party Members/Rok.md",
+    "Places/Bree.md",
+    "Places/Zool.jpg",
     "Bounty Board.md",
+    "Places/Aston.md",
+    "NPC/'Goblin Leader'.md",
     "Party Members/Sister M.md",
     "Items/Bag of Holding.md",
     "Items/Æget's lost book.md",
     "Events/The Fall of Bryndemere.md",
-    "NPC/Vilnis.md",
     "NPC/Proxor.md",
     "NPC/Peter Bronzemane.md",
     "NPC/Lyra Farrona.md",
@@ -225,19 +215,14 @@
     "NPC/Amanda.md",
     "NPC/Aiden.md",
     "NPC/'Sir' Davis.md",
-    "NPC/'Jacob'.md",
     "Pictures/Leonidas screenshot.png",
     "Pictures/Lyra Farrona screenshot.png",
-    "Organizations/Children of the Truth.md",
     "Lyra Farrona screenshot.png",
-    "Party Members/Æget.md",
     "Pictures/Ileona screenshot.png",
-    "Organizations/Followers of Bjørn.md",
     "Pictures/Davis screenshot.png",
     "Pictures/Loznoth Bronzemane screenshot.png",
     "Pictures/Broxas.png",
     "Pictures/Glox.png",
-    "Glox 1.png",
     "Pictures",
     "Organizations",
     "Events",

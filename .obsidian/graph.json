@@ -8,31 +8,31 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:NPC  ",
+      "query": "path:Places  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:NPC",
       "color": {
         "a": 1,
         "rgb": 14725458
       }
     },
     {
-      "query": "path:Places  ",
-      "color": {
-        "a": 1,
-        "rgb": 14701159
-      }
-    },
-    {
       "query": "path:\"Party Members\"  ",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 11657298
       }
     },
     {
       "query": "path:Items  ",
       "color": {
         "a": 1,
-        "rgb": 2766293
+        "rgb": 5431378
       }
     },
     {
@@ -48,18 +48,25 @@
         "a": 1,
         "rgb": 5419488
       }
+    },
+    {
+      "query": "path:\"Bounty Board\"",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.00315013404826,
-  "lineSizeMultiplier": 3.00403820375335,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7725778568100117,
+  "scale": 0.7725778568100122,
   "close": true
 }

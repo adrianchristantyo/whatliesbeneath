@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organizations/Children of the Truth.md",
+                "file": "Party Members/Sister M.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Children of the Truth"
+              "title": "Sister M"
+            }
+          },
+          {
+            "id": "4f33238283cda4a0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,45 +200,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "db4a0f40cb030b2c",
+  "active": "4f33238283cda4a0",
   "lastOpenFiles": [
-    "NPC/Leonidas.md",
-    "Leonidas screenshot.png",
-    "Party Members/Æget.md",
-    "NPC/Loznoth Bronzemane.md",
-    "Pictures/Ileona screenshot.png",
+    "NPC/'Goblin Leader'.md",
+    "Bounty Board.md",
+    "Party Members/Sister M.md",
+    "Items/Bag of Holding.md",
+    "Items/Æget's lost book.md",
+    "Events/The Fall of Bryndemere.md",
+    "NPC/Vilnis.md",
     "NPC/Proxor.md",
     "NPC/Peter Bronzemane.md",
     "NPC/Lyra Farrona.md",
+    "NPC/Loznoth Bronzemane.md",
+    "NPC/Leonidas.md",
+    "NPC/Ida Bronzemane.md",
+    "NPC/Ileona.md",
+    "NPC/Erwin Nørgaard.md",
+    "Pictures/Erwin Noergaard screenshot.png",
+    "NPC/Cæda.md",
+    "NPC/Broxas Kane.md",
+    "NPC/Andy.md",
+    "NPC/Anders Andersen.md",
+    "NPC/Amanda.md",
+    "NPC/Aiden.md",
+    "NPC/'Sir' Davis.md",
+    "NPC/'Jacob'.md",
+    "Pictures/Leonidas screenshot.png",
     "Pictures/Lyra Farrona screenshot.png",
     "Organizations/Children of the Truth.md",
+    "Lyra Farrona screenshot.png",
+    "Party Members/Æget.md",
+    "Pictures/Ileona screenshot.png",
     "Organizations/Followers of Bjørn.md",
-    "NPC/'Jacob'.md",
-    "NPC/Ileona.md",
-    "NPC/Ida Bronzemane.md",
-    "NPC/Erwin Nørgaard.md",
-    "NPC/Cæda.md",
     "Pictures/Davis screenshot.png",
-    "NPC/'Sir' Davis.md",
     "Pictures/Loznoth Bronzemane screenshot.png",
-    "NPC/Broxas Kane.md",
     "Pictures/Broxas.png",
-    "NPC/Glox.md",
     "Pictures/Glox.png",
     "Glox 1.png",
-    "Places/Zool.jpg",
-    "Pictures/Una HF.png",
     "Pictures",
-    "Party Members/Una.md",
-    "Party Members/Sister M.md",
-    "Party Members/Rok.md",
-    "Party Members/Booby.md",
-    "Party Members/Bonn.md",
-    "Places/Whitewoods.md",
     "Organizations",
-    "NPC/Aiden.md",
-    "NPC/Andy.md",
-    "Places/Bree.md",
     "Events",
     "Places",
     "NPC",

@@ -20,19 +20,8 @@
               "icon": "lucide-file",
               "title": "Children of the Truth"
             }
-          },
-          {
-            "id": "0d6e39f82bb476a2",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,7 +189,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d6e39f82bb476a2",
+  "active": "db4a0f40cb030b2c",
   "lastOpenFiles": [
     "NPC/Leonidas.md",
     "Leonidas screenshot.png",

@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4f33238283cda4a0",
+            "id": "8da479bfc8076d4e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -42,7 +46,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -165,70 +169,81 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "32c2b0452888ab17",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4f33238283cda4a0",
+  "active": "8da479bfc8076d4e",
   "lastOpenFiles": [
-    "NPC/Vilnis.md",
-    "Organizations/Children of the Truth.md",
-    "Party Members/Rok.md",
-    "Places/Bree.md",
-    "Places/Zool.jpg",
     "Bounty Board.md",
+    "README.md",
+    "Places/Riften.md",
+    "Places/Monastery of Torben.md",
+    "Places/Bree.md",
     "Places/Aston.md",
-    "NPC/'Goblin Leader'.md",
+    "Pictures/Una HF.png",
+    "Pictures/Sister M.png",
+    "Pictures/Rok.png",
+    "Pictures/Erwin Noergaard screenshot.png",
+    "Pictures/Davis screenshot.png",
+    "Pictures/CotT Cultist.png",
+    "Party Members/Una.md",
     "Party Members/Sister M.md",
-    "Items/Bag of Holding.md",
-    "Items/Æget's lost book.md",
-    "Events/The Fall of Bryndemere.md",
+    "Party Members/Rok.md",
+    "Party Members/Booby.md",
+    "Party Members/Bonn.md",
+    "Party Members/Æget.md",
+    "Organizations/Followers of Bjørn.md",
+    "Organizations/Children of the Truth.md",
+    "NPC/Vilnis.md",
     "NPC/Proxor.md",
     "NPC/Peter Bronzemane.md",
     "NPC/Lyra Farrona.md",
     "NPC/Loznoth Bronzemane.md",
     "NPC/Leonidas.md",
-    "NPC/Ida Bronzemane.md",
     "NPC/Ileona.md",
+    "NPC/Ida Bronzemane.md",
     "NPC/Erwin Nørgaard.md",
-    "Pictures/Erwin Noergaard screenshot.png",
     "NPC/Cæda.md",
     "NPC/Broxas Kane.md",
     "NPC/Andy.md",
-    "NPC/Anders Andersen.md",
-    "NPC/Amanda.md",
-    "NPC/Aiden.md",
-    "NPC/'Sir' Davis.md",
-    "Pictures/Leonidas screenshot.png",
+    "Places/Zool.jpg",
     "Pictures/Lyra Farrona screenshot.png",
-    "Lyra Farrona screenshot.png",
-    "Pictures/Ileona screenshot.png",
-    "Pictures/Davis screenshot.png",
     "Pictures/Loznoth Bronzemane screenshot.png",
-    "Pictures/Broxas.png",
-    "Pictures/Glox.png",
+    "Pictures/Leonidas screenshot.png",
     "Pictures",
+    "Party Members",
     "Organizations",
     "Events",
-    "Places",
-    "NPC",
     "Items",
-    "Party Members"
+    "NPC",
+    "Places",
+    "Followers of bjørn"
   ]
 }

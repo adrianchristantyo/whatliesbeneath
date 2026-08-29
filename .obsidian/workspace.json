@@ -11,17 +11,41 @@
             "id": "8da479bfc8076d4e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          },
+          {
+            "id": "8424bc3f36c8c10b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "Places/Zool.jpg"
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-image",
+              "title": "Zool"
+            }
+          },
+          {
+            "id": "1e415e6e57e71067",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "NPC/'Jacob'.md",
+                "bFile": "NPC/'Jacob'.md",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: 'Jacob'  (Index)"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -199,17 +223,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8da479bfc8076d4e",
+  "active": "1e415e6e57e71067",
   "lastOpenFiles": [
-    "Bounty Board.md",
+    "Pictures/Lyra screenshot.png",
+    "Places/Bree.md",
+    "NPC/Broxas Kane.md",
+    "NPC/Andy.md",
+    "NPC/Anders Andersen.md",
+    "NPC/'Goblin Leader'.md",
+    "NPC/Lyra.md",
+    "Events/The Fall of Bryndemere.md",
+    "conflict-files-obsidian-git.md",
+    "Places/Zool.jpg",
+    "Pictures/Rok.png",
+    "Pictures/Sister M.png",
+    "Pictures/Una HF.png",
+    "Untitled.canvas",
     "README.md",
+    "Bounty Board.md",
     "Places/Riften.md",
     "Places/Monastery of Torben.md",
-    "Places/Bree.md",
     "Places/Aston.md",
-    "Pictures/Una HF.png",
-    "Pictures/Sister M.png",
-    "Pictures/Rok.png",
     "Pictures/Erwin Noergaard screenshot.png",
     "Pictures/Davis screenshot.png",
     "Pictures/CotT Cultist.png",
@@ -225,16 +259,6 @@
     "NPC/Proxor.md",
     "NPC/Peter Bronzemane.md",
     "NPC/Lyra Farrona.md",
-    "NPC/Loznoth Bronzemane.md",
-    "NPC/Leonidas.md",
-    "NPC/Ileona.md",
-    "NPC/Ida Bronzemane.md",
-    "NPC/Erwin Nørgaard.md",
-    "NPC/Cæda.md",
-    "NPC/Broxas Kane.md",
-    "NPC/Andy.md",
-    "Places/Zool.jpg",
-    "Pictures/Lyra Farrona screenshot.png",
     "Pictures/Loznoth Bronzemane screenshot.png",
     "Pictures/Leonidas screenshot.png",
     "Pictures",

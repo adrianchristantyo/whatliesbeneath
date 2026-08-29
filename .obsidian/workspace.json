@@ -30,18 +30,17 @@
             }
           },
           {
-            "id": "1e415e6e57e71067",
+            "id": "f461b2f7e4875d29",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "NPC/'Jacob'.md",
-                "bFile": "NPC/'Jacob'.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: 'Jacob'  (Index)"
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ],
@@ -223,8 +222,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1e415e6e57e71067",
+  "active": "f461b2f7e4875d29",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Places/Zool.jpg",
     "Pictures/Lyra screenshot.png",
     "Places/Bree.md",
     "NPC/Broxas Kane.md",
@@ -233,8 +234,6 @@
     "NPC/'Goblin Leader'.md",
     "NPC/Lyra.md",
     "Events/The Fall of Bryndemere.md",
-    "conflict-files-obsidian-git.md",
-    "Places/Zool.jpg",
     "Pictures/Rok.png",
     "Pictures/Sister M.png",
     "Pictures/Una HF.png",

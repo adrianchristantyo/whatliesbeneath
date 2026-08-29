@@ -11,10 +11,12 @@
             "id": "ca80238876da5a96",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "image",
+              "state": {
+                "file": "Pictures/Lyra screenshot.png"
+              },
+              "icon": "lucide-image",
+              "title": "Lyra screenshot"
             }
           }
         ]
@@ -216,7 +218,7 @@
     "Pictures/Erwin Noergaard screenshot.png",
     "NPC/Cæda.md",
     "Pictures/Leonidas screenshot.png",
-    "Pictures/Lyra Farrona screenshot.png",
+    "Pictures/Lyra screenshot.png",
     "Lyra Farrona screenshot.png",
     "Pictures/Ileona screenshot.png",
     "Pictures/Davis screenshot.png",

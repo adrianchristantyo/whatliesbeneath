@@ -1,0 +1,1 @@
+The main currency in this world

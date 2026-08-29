@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"82eb99111f66ae59","x":-1800,"y":-1200,"width":400,"height":400,"type":"file","file":"Party Members/Æget.md"},
+		{"id":"50d7c03c717f5c44","x":-1400,"y":-1200,"width":400,"height":400,"type":"file","file":"Party Members/Booby.md"},
+		{"id":"640ce6a4fe727ebd","x":-1800,"y":-800,"width":400,"height":400,"type":"file","file":"Party Members/Bonn.md"},
+		{"id":"8cf4a1e169cd67d3","x":-1400,"y":-800,"width":400,"height":400,"type":"file","file":"Party Members/Rok.md"},
+		{"id":"af437dcc97a3a76d","x":-1800,"y":-400,"width":400,"height":400,"type":"file","file":"Party Members/Una.md"},
+		{"id":"421ef7a9870f4bd9","x":-1400,"y":-400,"width":400,"height":400,"type":"file","file":"Party Members/Sister M.md"}
+	],
+	"edges":[]
+}

@@ -11,10 +11,14 @@
             "id": "4f33238283cda4a0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Events/The Fall of Bryndemere.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Fall of Bryndemere"
             }
           }
         ]
@@ -187,15 +191,19 @@
   },
   "active": "4f33238283cda4a0",
   "lastOpenFiles": [
+    "Party Members/Una.md",
+    "Party Members/Sister M.md",
+    "Party Members/Rok.md",
+    "Party Members/Booby.md",
+    "Party Members/Bonn.md",
+    "Party Members/Æget.md",
+    "Places/Zool.jpg",
     "NPC/Vilnis.md",
     "Organizations/Children of the Truth.md",
-    "Party Members/Rok.md",
     "Places/Bree.md",
-    "Places/Zool.jpg",
     "Bounty Board.md",
     "Places/Aston.md",
     "NPC/'Goblin Leader'.md",
-    "Party Members/Sister M.md",
     "Items/Bag of Holding.md",
     "Items/Æget's lost book.md",
     "Events/The Fall of Bryndemere.md",
@@ -211,10 +219,6 @@
     "NPC/Cæda.md",
     "NPC/Broxas Kane.md",
     "NPC/Andy.md",
-    "NPC/Anders Andersen.md",
-    "NPC/Amanda.md",
-    "NPC/Aiden.md",
-    "NPC/'Sir' Davis.md",
     "Pictures/Leonidas screenshot.png",
     "Pictures/Lyra Farrona screenshot.png",
     "Lyra Farrona screenshot.png",

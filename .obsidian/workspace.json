@@ -75,10 +75,14 @@
             "id": "7a5181099688894c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "NPC/Broxas Kane.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Broxas Kane"
             }
           }
         ],
@@ -260,8 +264,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7a5181099688894c",
+  "active": "4c4019d8272aadef",
   "lastOpenFiles": [
+    "NPC/Broxas Kane.md",
+    "Sin título.md",
+    "Bryndemere.md",
     "Items/Bear fur.md",
     "Chapters/Chapter 2.md",
     "NPC/Lyra.md",
@@ -286,9 +293,6 @@
     "Places/Aston.md",
     "Places/Bree.md",
     "Places/Monastery of Torben.md",
-    "NPC/Aiden.md",
-    "NPC/Loznoth Bronzemane.md",
-    "Items/gold coins.md",
     "Chapters",
     "Pictures/Agæt.png",
     "Pictures/Lyra screenshot.png",

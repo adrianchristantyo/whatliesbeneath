@@ -1,0 +1,1 @@
+Capital city of Axenfell. The city where [[The Fall of Bryndemere]] took place.

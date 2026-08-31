@@ -35,3 +35,23 @@ He says "welcome, I was expecting you"
 2 guards get prepared to battle, [[Lyra]] as well.
 
 [[Rok]] asks for the eternal life, why did [['Jacob']] died if the followers have eternal life
+
+[[Vilnis]] gets tired of all the questions and the fight starts. During the fight [[Æget]] went to [[Vilnis]] and whispered to him "If you let everyone else leave, I will join your cult and serve as you command, but let them go". [[Booby]] screams "[[Vilnis]], I accept", as well.
+
+After [[Æget]] whispers [[Vilnis]] walks around him, next to [[Una]] and says: "I like to give up visions, so they feel like they are given and they have hope. I would like to make the prophevy true, I don't know if [[Una]] has been telling you, but she has had this great vision of saving 5 people, has she not?
+The prophecy stays pretty true and the prophecy states that a sacrifice must be made to save the other 5.
+[[Æget]] here seems to want to join, but don't worry, we will come back to you and I will give you your vision"
+
+He attacks [[Una]], and knocks her down and says: "release the rest, and don't even try, thr prophecy must be made". [[Una]] is fighting for her live and sees visions of her in the library, her live passing in front of her eyes
+
+In the entrance of the lair, [[Booby]] makes a light memorial for [[Una]], giving her his respects, and exit the cave. [[Sister M]] presented her respects to [[Una]]
+
+[[Vilnis]] Gave a final hit to [[Una]], she dies, giving her final words: "Everything in my life has more meaning with you, before you it was all books all library. I knew about the vision, but I decided not to tell you".
+
+[[Vilnis]] orders [[Lyra]] to get [[Æget]], who is unconcious.
+
+[[Æget]] dies during the encounter, he sees his life going in front of his eyes. Everything that happened with the book, [[Bonn]] being with him all the time. And for onceafter so long, he can see. He gets all of his memories back, and he sees a white pure bright light, he can feel warmth, and for the first time he sees [[Una]]. She is the person that is right there, putting a hand to him as she says "Lets go [[Æget]], lets have a new adventure".
+
+ 
+
+
